@@ -26,6 +26,6 @@ No aplicativo é possível realizar um cadastro de login, acessar os horários d
 
 <br>*Todo processo de Front-End e Back-End foi desenvolvido por mim [@DevFelipeFerreira](https://github.com/felipeferreira-dev).*</br>
 
-# Entre em contato 
+## Entre em contato 
 E-mail: dev.felipeferreira@gmail.com 
 <br>Whatsapp: (11)96904-0780</br>
